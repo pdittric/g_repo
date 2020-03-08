@@ -28,14 +28,8 @@ class Taz_Exploration:
         self.my_stopword = my_stopwords
         self.stopwords_list = []
         self.nlines = []
-        self.clean_data= []
-        self.blob = None
-        self.sliste_n = ()
-        self.encoded_vals = []
-        self.labels = {}
-        self.wörter_org = []
-        self.my_dict = {}
-        self.encoded_vals = []
+	self.clean_data= []
+	print("Hallo Papa ich bins Fabian")
 
     def load_stpwords(self, stopwords_de):
         """
