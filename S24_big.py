@@ -13,6 +13,8 @@
 #   
 #   copyright 2020, Peter Dittrich
 #
+# ADDED FOR TESTING PURPOSES by FAD28
+
 from HanTa import HanoverTagger as ht
 import pandas as pd
 import numpy as np
